@@ -11,7 +11,7 @@ const ComponentFunction = () => {
 
   return (
     <div className="App">
-      <h1>Realtime CLOCK</h1>
+      <h1>Realtime Clock</h1>
       <hr />
       <h1>{date.toLocaleTimeString()}</h1>
     </div>
