@@ -1,6 +1,6 @@
 import React from "react";
 
-class PakaiClass extends React.Component {
+class ComponentClass extends React.Component {
   constructor() {
     super();
     this.state = {
@@ -31,4 +31,4 @@ class PakaiClass extends React.Component {
   }
 }
 
-export default PakaiClass;
+export default ComponentClass;
